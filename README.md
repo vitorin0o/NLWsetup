@@ -1,2 +1,2 @@
 # setupNLW
-Projeto feito no evento Next Level Week da RocketSeat
+Página web de controle de hábitos, desenvolvido no evento Next Level Week, promovido pela RocketSeat.
